@@ -1,0 +1,10 @@
+---
+global:
+  name: Data-Timeline-SVK
+releases:
+  - author: 'Marcel Gruenauer <marcel@cpan.org>'
+    changes:
+      - original version
+    date: 2007-11-12T20:45:30Z
+    tags: []
+    version: 0.01
